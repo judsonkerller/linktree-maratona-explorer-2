@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Some themes" src=".public/img/themes.png">
+  <img alt="Some themes" src="./img/themes.png">
 </p>
 
 ---
